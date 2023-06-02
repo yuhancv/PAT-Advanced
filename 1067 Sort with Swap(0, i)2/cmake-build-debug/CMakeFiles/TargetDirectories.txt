@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1067 Sort with Swap(0, i)2/cmake-build-debug/CMakeFiles/1067_Sort_with_Swap_0__i_2.dir
+C:/Users/yuhan/Desktop/dsa/1067 Sort with Swap(0, i)2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1067 Sort with Swap(0, i)2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

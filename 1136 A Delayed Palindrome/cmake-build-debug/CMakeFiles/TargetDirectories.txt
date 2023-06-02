@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1136 A Delayed Palindrome/cmake-build-debug/CMakeFiles/1136_A_Delayed_Palindrome.dir
+C:/Users/yuhan/Desktop/dsa/1136 A Delayed Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1136 A Delayed Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir

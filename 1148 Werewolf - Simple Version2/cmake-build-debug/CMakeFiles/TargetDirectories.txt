@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1148 Werewolf - Simple Version2/cmake-build-debug/CMakeFiles/1148_Werewolf___Simple_Version2.dir
+C:/Users/yuhan/Desktop/dsa/1148 Werewolf - Simple Version2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1148 Werewolf - Simple Version2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

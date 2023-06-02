@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1100 Mars Numbers/cmake-build-debug/CMakeFiles/1100_Mars_Numbers.dir
+C:/Users/yuhan/Desktop/dsa/1100 Mars Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1100 Mars Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

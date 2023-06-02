@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1079 Total Sales of Supply Chain/cmake-build-debug/CMakeFiles/1079_Total_Sales_of_Supply_Chain.dir
+C:/Users/yuhan/Desktop/dsa/1079 Total Sales of Supply Chain/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1079 Total Sales of Supply Chain/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1086 Tree Traversals Again/cmake-build-debug/CMakeFiles/1086_Tree_Traversals_Again.dir
+C:/Users/yuhan/Desktop/dsa/1086 Tree Traversals Again/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1086 Tree Traversals Again/cmake-build-debug/CMakeFiles/rebuild_cache.dir

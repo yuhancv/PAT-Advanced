@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1119_Pre__and_Post_order_Traversals2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1119_Pre__and_Post_order_Traversals2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1119_Pre__and_Post_order_Traversals2-Debug-7b792d7b6ed28ea7ef5f.json",
+					"name" : "1119_Pre__and_Post_order_Traversals2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yuhan/Desktop/dsa/1119 Pre- and Post-order Traversals2/cmake-build-debug",
+		"source" : "C:/Users/yuhan/Desktop/dsa/1119 Pre- and Post-order Traversals2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1118 Birds in Forest/cmake-build-debug/CMakeFiles/1118_Birds_in_Forest.dir
+C:/Users/yuhan/Desktop/dsa/1118 Birds in Forest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1118 Birds in Forest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1043 Is It a Binary Search Tree/cmake-build-debug/CMakeFiles/1043_Is_It_a_Binary_Search_Tree.dir
+C:/Users/yuhan/Desktop/dsa/1043 Is It a Binary Search Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1043 Is It a Binary Search Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

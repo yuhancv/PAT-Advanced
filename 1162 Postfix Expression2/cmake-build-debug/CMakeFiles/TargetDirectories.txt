@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1162 Postfix Expression2/cmake-build-debug/CMakeFiles/1162_Postfix_Expression2.dir
+C:/Users/yuhan/Desktop/dsa/1162 Postfix Expression2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1162 Postfix Expression2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

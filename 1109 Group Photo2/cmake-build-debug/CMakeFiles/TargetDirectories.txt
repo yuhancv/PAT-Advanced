@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1109 Group Photo2/cmake-build-debug/CMakeFiles/1109_Group_Photo2.dir
+C:/Users/yuhan/Desktop/dsa/1109 Group Photo2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1109 Group Photo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

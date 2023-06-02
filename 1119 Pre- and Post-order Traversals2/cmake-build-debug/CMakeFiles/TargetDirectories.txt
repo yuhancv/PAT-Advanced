@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1119 Pre- and Post-order Traversals2/cmake-build-debug/CMakeFiles/1119_Pre__and_Post_order_Traversals2.dir
+C:/Users/yuhan/Desktop/dsa/1119 Pre- and Post-order Traversals2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1119 Pre- and Post-order Traversals2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

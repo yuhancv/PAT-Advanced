@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1164 Good in C/cmake-build-debug/CMakeFiles/1164_Good_in_C.dir
+C:/Users/yuhan/Desktop/dsa/1164 Good in C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1164 Good in C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

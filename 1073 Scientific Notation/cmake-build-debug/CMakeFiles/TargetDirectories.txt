@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1073 Scientific Notation/cmake-build-debug/CMakeFiles/1073_Scientific_Notation.dir
+C:/Users/yuhan/Desktop/dsa/1073 Scientific Notation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1073 Scientific Notation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

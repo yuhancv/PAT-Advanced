@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1158 Telefraud Detection/cmake-build-debug/CMakeFiles/1158_Telefraud_Detection.dir
+C:/Users/yuhan/Desktop/dsa/1158 Telefraud Detection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1158 Telefraud Detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir

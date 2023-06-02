@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1138 Postorder Traversal/cmake-build-debug/CMakeFiles/1138_Postorder_Traversal.dir
+C:/Users/yuhan/Desktop/dsa/1138 Postorder Traversal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1138 Postorder Traversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

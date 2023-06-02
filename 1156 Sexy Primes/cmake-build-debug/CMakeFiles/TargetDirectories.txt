@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1156 Sexy Primes/cmake-build-debug/CMakeFiles/1156_Sexy_Primes.dir
+C:/Users/yuhan/Desktop/dsa/1156 Sexy Primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1156 Sexy Primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1034 Head of a Gang/cmake-build-debug/CMakeFiles/1034_Head_of_a_Gang.dir
+C:/Users/yuhan/Desktop/dsa/1034 Head of a Gang/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1034 Head of a Gang/cmake-build-debug/CMakeFiles/rebuild_cache.dir

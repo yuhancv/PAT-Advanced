@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1105 Spiral Matrix/cmake-build-debug/CMakeFiles/1105_Spiral_Matrix.dir
+C:/Users/yuhan/Desktop/dsa/1105 Spiral Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1105 Spiral Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

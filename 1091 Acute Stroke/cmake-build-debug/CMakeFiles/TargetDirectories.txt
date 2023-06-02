@@ -1,0 +1,3 @@
+C:/Users/yuhan/Desktop/dsa/1091 Acute Stroke/cmake-build-debug/CMakeFiles/1091_Acute_Stroke.dir
+C:/Users/yuhan/Desktop/dsa/1091 Acute Stroke/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuhan/Desktop/dsa/1091 Acute Stroke/cmake-build-debug/CMakeFiles/rebuild_cache.dir
